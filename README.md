@@ -81,7 +81,7 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 
 </br> 
 
-- [To-Do List in JavaScript](letyxlira.github.io/to-do-list/)  
+- [To-Do List in JavaScript](https://letyxlira.github.io/to-do-list)   
   *A simple task management application, built to practice CRUD operations and DOM manipulation.*  
 
 </br> 
