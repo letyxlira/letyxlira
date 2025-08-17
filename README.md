@@ -8,12 +8,14 @@
 </br> 
 </br> 
 
+
 <div dsplay="inline-block"> 
   
 # 👋🏽 Welcome to my Github profile. 
 ### My name is Letycia Lira and my nickname is "Lety"! 
 
 </div> 
+
 
 <div> 
    <a href="https://www.linkedin.com/in/letycia-lira-barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -23,8 +25,6 @@
    <a href="mailto:letyciaalira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div> 
-
-
 
 
 </br> 
@@ -49,8 +49,6 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
   <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406475754946166895/image.png?ex=68a29a1f&is=68a1489f&hm=fdb8dacdafbc9108027fe08f21f8a520b2a9d60a5eab3552619b9e2ed8c34bb4&" width="200">
 </p> 
 
-</br> 
-
 
 ## 🛠️ Technologies & Tools 
 
@@ -59,14 +57,12 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 </br> 
 </br> 
 
-
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Java, Node.js (learning)  
 - **Banco de Dados:** MySQL  
 - **Outros:** Git & GitHub, Python (beginner)  
 
 </br>
-
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title = "HTML5"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title = "CSS3"/></code> 
@@ -89,6 +85,7 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
   *A simple task management application, built to practice CRUD operations and DOM manipulation.*  
 
 </br> 
+
 
 ---
 
