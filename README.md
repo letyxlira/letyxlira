@@ -92,6 +92,7 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 ✨ Passionate about technology, innovation, and solutions that create a positive impact.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/letycia-lira-barbosa).  
 
+</br> 
 
 <p align="center"> 
   <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406487839960469565/image.png?ex=68a2a560&is=68a153e0&hm=4dea3c53d5f60ed11030f6711a103c39d1fee1250b12c89c60f764a80476c5f5&" width="200">
