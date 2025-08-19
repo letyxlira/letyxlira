@@ -45,7 +45,7 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 </br> 
 
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406475754946166895/image.png?ex=68a29a1f&is=68a1489f&hm=fdb8dacdafbc9108027fe08f21f8a520b2a9d60a5eab3552619b9e2ed8c34bb4&" width="200">
+  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406475754946166895/image.png?ex=68a5e5df&is=68a4945f&hm=0cfe95e627b0f6b15e5172492eebc427f8dcce7ca331542b5a82636e34b91357&" width="200">
 </p> 
 
 
@@ -99,5 +99,5 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 
 
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406487839960469565/image.png?ex=68a2a560&is=68a153e0&hm=4dea3c53d5f60ed11030f6711a103c39d1fee1250b12c89c60f764a80476c5f5&" width="200">
+  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406487839960469565/image.png?ex=68a5f120&is=68a49fa0&hm=aba586de2c913d6ca30b736ea72db0cb2d0b6bdbd7901258991fad2349736f2b&" width="200">
 </p> 
