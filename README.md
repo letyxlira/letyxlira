@@ -1,4 +1,4 @@
-<img align="right" width="225px" style="margin-top:-20px" src="https://cdn.discordapp.com/attachments/821786907692367913/1406476600727437312/image.png?ex=68a29ae8&is=68a14968&hm=14e2e3da77f8598b172d01ce96206ec42c763935cbbfbcc4fb4862b17ee5611b&"> 
+<img align="right" width="225px" style="margin-top:-20px" src="https://media.discordapp.net/attachments/821786907692367913/1406476600727437312/image.png?ex=68af2128&is=68adcfa8&hm=3fa0edb92cca4b1b8373021c0b5917c8d3a0d327cd8830af35efbfc02d911505&=&format=webp&quality=lossless&width=739&height=739"> 
 </br> 
 </br> 
 </br> 
@@ -45,7 +45,7 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 </br> 
 
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406475754946166895/image.png?ex=68a5e5df&is=68a4945f&hm=0cfe95e627b0f6b15e5172492eebc427f8dcce7ca331542b5a82636e34b91357&" width="200">
+  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406475754946166895/image.png?ex=68af205f&is=68adcedf&hm=5b69f91f0c54ffe444f2b9282dc03b9a4776529e4ff8ffbf4ce02b626ed27d2e&" width="200">
 </p> 
 
 
@@ -99,5 +99,5 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 
 
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406487839960469565/image.png?ex=68a5f120&is=68a49fa0&hm=aba586de2c913d6ca30b736ea72db0cb2d0b6bdbd7901258991fad2349736f2b&" width="200">
+  <img src="https://media.discordapp.net/attachments/821786907692367913/1406487839960469565/image.png?ex=68af2ba0&is=68adda20&hm=976a568ce516dfe42dca06aa46e65fdb379fef4b101d1f413deae6c73adac266&=&format=webp&quality=lossless&width=739&height=739" width="200">
 </p> 
