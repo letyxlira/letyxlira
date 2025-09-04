@@ -1,4 +1,4 @@
-<img align="right" width="225px" style="margin-top:-20px" src="https://media.discordapp.net/attachments/821786907692367913/1406476600727437312/image.png?ex=68af2128&is=68adcfa8&hm=3fa0edb92cca4b1b8373021c0b5917c8d3a0d327cd8830af35efbfc02d911505&=&format=webp&quality=lossless&width=739&height=739"> 
+<img align="right" width="225px" style="margin-top:-20px" src="https://i.postimg.cc/wjqBBxSr/image1.png(https://postimg.cc/0b4vWv5G)"> 
 </br> 
 </br> 
 </br> 
@@ -45,13 +45,13 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 </br> 
 
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/821786907692367913/1406475754946166895/image.png?ex=68af205f&is=68adcedf&hm=5b69f91f0c54ffe444f2b9282dc03b9a4776529e4ff8ffbf4ce02b626ed27d2e&" width="200">
+  <img src="https://i.postimg.cc/MGXKyPZb/image2.png(https://postimg.cc/zLZrNkgV)" width="200">
 </p> 
 
 
 ## 🛠️ Technologies & Tools 
 
-<img width="350px" align="right" src="https://cdn.discordapp.com/attachments/821786907692367913/1406476034714636288/image.png?ex=68a29a61&is=68a148e1&hm=8a8c3527f9e283c1e67b0d76d9c5be3e586fa377f0a29f71abac8175a3e5721f&"> 
+<img width="350px" align="right" src="https://i.postimg.cc/hPbjgQ3x/image3.png(https://postimg.cc/Tp1GJ1xY)"> 
 
 </br> 
 </br> 
@@ -99,5 +99,5 @@ I’m 26 years old, originally from Rio de Janeiro but currently living in Brasi
 
 
 <p align="center"> 
-  <img src="https://media.discordapp.net/attachments/821786907692367913/1406487839960469565/image.png?ex=68af2ba0&is=68adda20&hm=976a568ce516dfe42dca06aa46e65fdb379fef4b101d1f413deae6c73adac266&=&format=webp&quality=lossless&width=739&height=739" width="200">
+  <img src="https://i.postimg.cc/3xtx05hx/image4.png(https://postimg.cc/QFW3vzV2)" width="200">
 </p> 
